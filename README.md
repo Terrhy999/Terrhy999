@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align='center'>Hey, I'm Terrence...</h1>
+<h2 align='center'>I'm a self taught software engineer from New Jersey</h2>
 
-<!--
-**Terrhy999/Terrhy999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm learning right now
+- Rust 
+- SQL Database Design
 
-Here are some ideas to get you started:
+### What I already know
+- Javascript/Typescript
+- React
+- NextJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some cool stuff I built
+- [Stately Hyland Apiaries](https://statelyhylandapiaries.com) blog and store.
+- [Spotify Poppin'](https://spotify-poppin.herokuapp.com/) for some neat info on your spotify playlists.
+- [A cool web scraper](https://github.com/Terrhy999/web_scraper) for Magic: the Gathering decklists from [Aetherhub](https://aetherhub.com).
