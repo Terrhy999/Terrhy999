@@ -12,5 +12,5 @@
 
 ### Some cool stuff I built
 - [Stately Hyland Apiaries](https://statelyhylandapiaries.com) blog and store.
-- [Spotify Poppin'](https://spotify-poppin.herokuapp.com/) for some neat info on your spotify playlists.
+- [Spotify Poppin'](https://spotify.terrhyland.com/) for some neat info on your spotify playlists.
 - [A cool web scraper](https://github.com/Terrhy999/web_scraper) for Magic: the Gathering decklists from [Aetherhub](https://aetherhub.com).
