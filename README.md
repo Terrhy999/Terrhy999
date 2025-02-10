@@ -2,13 +2,14 @@
 <h2 align='center'>I'm a self taught software engineer from New Jersey</h2>
 
 ### What I'm learning right now
-- Rust 
-- SQL Database Design
+- C++
 
 ### What I already know
 - Javascript/Typescript
 - React
 - NextJs
+- Rust 
+- SQL Database Design
 
 ### Some cool stuff I built
 - [Stately Hyland Apiaries](https://statelyhylandapiaries.com) blog and store.
